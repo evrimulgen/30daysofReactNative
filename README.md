@@ -47,6 +47,7 @@ This is divided in two parts:
 - using Expo
 - using react-native-cli
 - use `navigator` available in JS natively
+- use `getCurrentPosition` to fetch the current coordinates
 - use `Permissions` API from Expo
 - set permissions for android natively when using `react-native-cli`
 
