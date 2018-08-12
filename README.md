@@ -79,7 +79,7 @@ Tools: Expo-cli & react-native-cli
 - use `PropTypes`
 - use Vector icons from `FontAwesome`
 
-[Code](https://github.com/amandeepmittal/rn-pomodoro-example) | [Tutorial - Coming Soon]() | Tools: Expo-CLI
+[Code](https://github.com/amandeepmittal/rn-pomodoro-example) | [Tutorial](https://medium.freecodecamp.org/how-to-integrate-redux-into-your-application-with-react-native-and-expo-ec37c9ca6033) | Tools: Expo-CLI
 
 ## React Navigation Example
 
