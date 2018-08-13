@@ -45,6 +45,17 @@ This file is a listing to other Standalone apps that have been published as sepa
 
 [Code]() | [Tutorial by Dave Hudson](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e) | Tools: `react-native-cli`
 
+## Carousel Effect
+
+![Demo](https://i.imgur.com/gTHuE6f.gif)
+
+- use `ImageBackground`
+- use `react-native-blur` for background image blur view
+- use `ListView` to render images from an array and display them horizontally
+- use `showsVerticalScrollIndicator` to display a scroll indicator
+
+[Code]() | Tools: `react-native-cli`
+
 ## Weather Cards
 
 ![Demo](https://cdn-images-1.medium.com/max/800/1*h7Zm66n-FRz63uJ0PPqppw.gif)
