@@ -9,10 +9,6 @@ class SimpleStopWatch extends Component {
 	};
 
 	onStart = () => {
-		// if (this.timer) {
-		// 	return;
-		// }
-
 		this.timer = setInterval(() => {
 			const count = this.state.count;
 			this.setState({ count: String((Number(count) + 0.1).toFixed(1)) });
