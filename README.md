@@ -22,6 +22,29 @@ The idea for this repo is inspired by awesome developers out there who took init
 
 This file is a listing to other Standalone apps that have been published as separate repositories.
 
+## Simple StopWatch Timer
+
+![Demo](https://i.imgur.com/hPuNr7I.gif)
+
+- build a Stop Watch Timer interface
+- use play, pause and reset buttons
+- use `react-native-vector-icons/MaterialIcons` for display icons for buttons
+- use `react-native link`
+
+[Code]() | Tools: `react-native-cli`
+
+## Custom Font
+
+![Demo](https://i.imgur.com/4xCn1GD.png)
+
+- use two `text` fields two
+- use two custom fonts for separate text fields
+- use `assets/fonts` dir to store fonts in app
+- use `package.json/rnpm` to define custom font for linking
+- use `react-native link` to link font filesfor iOS
+
+[Code]() | [Tutorial by Dave Hudson](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e) | Tools: `react-native-cli`
+
 ## Weather Cards
 
 ![Demo](https://cdn-images-1.medium.com/max/800/1*h7Zm66n-FRz63uJ0PPqppw.gif)
