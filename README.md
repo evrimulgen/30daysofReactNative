@@ -102,6 +102,17 @@ Tools: Expo-cli & react-native-cli
 
 [Code](https://github.com/amandeepmittal/rn-lottie-example) | [Tutorial](https://hackernoon.com/react-native-getting-started-with-lottie-and-expo-8b2105fbb496) | Tools: Expo
 
+## Change Themes in an RN App
+
+![Demo](https://i.imgur.com/6gtau2v.gif)
+
+- use redux to manage state
+- Demonstrate changing themes
+- change background color of the app on select
+- use `react-navigation` to navigate to different screens
+
+[Code](https://github.com/amandeepmittal/30daysofReactNative/tree/master/rn-themes-app) | Tools: Expo
+
 ## Pomodoro Timer
 
 ![Demo](https://cdn-images-1.medium.com/max/800/1*kMPizExeDMG-6MrYNbw8ew.gif)
@@ -123,4 +134,4 @@ Tools: Expo-cli & react-native-cli
 - use `StackNavigator`
 - use `TabNavigator`
 
-[Code](https://github.com/amandeepmittal/rnNavApp) | [Tutorial - Coming Soon]() | Tools: react-native-cli
+[Code](https://github.com/amandeepmittal/rnNavApp) | Tools: react-native-cli
