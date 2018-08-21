@@ -6,7 +6,7 @@ _A self taught way of learning React Native._
 
 It’s a project in which you create at least 30 working modules/apps using React Native.
 
-The target it to get hands on experience with React Native ASAP. React Native has a good and healthy ecosystem.
+The target it to get hands on experience with React Native ASAP.
 
 ## Motivation/Inspiration 🤯 👏
 
@@ -41,7 +41,7 @@ This file is a listing to other Standalone apps that have been published as sepa
 - use two custom fonts for separate text fields
 - use `assets/fonts` dir to store fonts in app
 - use `package.json/rnpm` to define custom font for linking
-- use `react-native link` to link font filesfor iOS
+- use `react-native link` to link font files for iOS
 
 [Code]() | [Tutorial by Dave Hudson](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e) | Tools: `react-native-cli`
 
@@ -135,3 +135,15 @@ Tools: Expo-cli & react-native-cli
 - use `TabNavigator`
 
 [Code](https://github.com/amandeepmittal/rnNavApp) | Tools: react-native-cli
+
+## Camera Roll in React Native
+
+![Demo](https://i.imgur.com/bHFpglE.gif)
+
+- use `react-navigation` to navigate between different screens
+- use `CameraRoll` from React-Native API to access iOS device images
+- use `react-native-fetch-blob` for file access, transfer image from `unsplash-api` to iOS device
+- use `react-native-share` to share the image
+- use `Modal` to toggle a Modal Screen
+
+[Code](https://github.com/amandeepmittal/30daysofReactNative/tree/master/rncameraRoll) | [Tutorial by Nader Dabit](https://medium.com/react-native-training/mastering-the-camera-roll-in-react-native-13b3b1963a2d) | Tools: react-native-cli
