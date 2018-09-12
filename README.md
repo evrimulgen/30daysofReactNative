@@ -160,4 +160,4 @@ Tools: Expo-cli & react-native-cli
 - on last screen, show different button
 - use `react-native-vector-icons`
 
-[Code]() | Tools: react-native-cli
+[Code](https://github.com/amandeepmittal/30daysofReactNative/tree/master/OnBoarding) | Tools: react-native-cli
