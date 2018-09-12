@@ -147,3 +147,17 @@ Tools: Expo-cli & react-native-cli
 - use `Modal` to toggle a Modal Screen
 
 [Code](https://github.com/amandeepmittal/30daysofReactNative/tree/master/rncameraRoll) | [Tutorial by Nader Dabit](https://medium.com/react-native-training/mastering-the-camera-roll-in-react-native-13b3b1963a2d) | Tools: react-native-cli
+
+## Welcome User/Onboard Example
+
+![Demo-1](https://i.imgur.com/dXC87Jh.png)
+![Demo-2](https://i.imgur.com/JxJBFxf.png)
+![Demo-3](https://i.imgur.com/z3ny1Rc.png)
+
+- build an onboard app in react native
+- each screen must have different background
+- create a resuable Slider component to add more screens
+- on last screen, show different button
+- use `react-native-vector-icons`
+
+[Code]() | Tools: react-native-cli
