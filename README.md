@@ -90,7 +90,7 @@ This is divided in two parts:
 - [Expo](https://github.com/amandeepmittal/find-me)
 - [react-native-cli](https://github.com/amandeepmittal/findCoordsApp)
 
-Tools: Expo-cli & react-native-cli
+[Tutorial](https://medium.com/react-native-training/accessing-geo-location-and-app-permissions-in-react-native-and-expo-e7a1bd4714a2) | Tools: Expo-cli & react-native-cli
 
 ## Lottie Example
 
@@ -134,7 +134,7 @@ Tools: Expo-cli & react-native-cli
 - use `StackNavigator`
 - use `TabNavigator`
 
-[Code](https://github.com/amandeepmittal/rnNavApp) | Tools: react-native-cli
+[Code](https://github.com/amandeepmittal/rnNavApp) | [Tutorial](https://hackernoon.com/navigation-in-a-react-native-app-cf61ed85e80b) |Tools: react-native-cli
 
 ## Camera Roll in React Native
 
